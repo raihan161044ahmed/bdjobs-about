@@ -1,0 +1,62 @@
+body{
+    background-color: #eeeeee;
+}
+
+.container-color{
+    background-color: white;
+    box-shadow: 5px;
+    width: 950px;
+    margin-right: 240px;
+}
+@media (max-width: 768px) {
+    .container-color {
+      margin-right: 10px; /* Add a small margin on the right side */
+      margin-left: 10px; /* Add a small margin on the left side */
+      width: calc(100% - 20px); /* Calculate the width minus the margin */
+      max-width: 950px; /* Set a maximum width for the container */
+      padding-left: 15px;
+      padding-right: 15px; /* Add some padding for better visibility */
+    }
+  }
+  
+  
+  
+.inside-container{
+    margin: 10px;
+}
+.t1{
+    display: block;
+    font-size: 80%;
+    line-height: 1.42857143;
+    color: #777;
+}
+.t2{
+    color: #757575;
+    font-size: 19px;
+    line-height: 24px;
+}
+.table-a{
+    font-size: 14px;
+    font-weight: 700;
+    color: #757575;
+    background-color: #757575;
+    border-bottom: none;
+}
+.card-h-text{
+    color: #2f64a3;
+    font-size: 16px;
+}
+.table-size{
+    width: 500px;
+    border: 1px solid #afaaaa;
+    border-radius: 20px;
+    margin-left: 20%;
+}
+.ccc{
+    color: #757575;
+    font-size: 14px;
+    font-weight: 700;
+}
+.table-border{
+    border: 1px solid #e4dbdb;
+}

@@ -1,0 +1,678 @@
+[
+    {
+        "employers": "45000",
+        "professionals": "1",
+        "No. of Unique Daily Visitors": "2,00,000 (on average)",
+        "Monthly Pageviews": "40 million",
+        "No. of Resumes": "40+ lacs",
+        "No. of Corporate Accounts": "45,000+",
+        "Company Management": [
+            {
+                "Name": "Ahmad Islam Muqsit",
+                "Designation": "Chairman"
+            },
+            {
+                "Name": "A.K.M. Fahim Mashroor",
+                "Designation": "Chief Executive Officer (CEO)"
+            }
+        ],
+        "Technical Team": [
+            {
+                "Name": "Kazi Latifur Rahman",
+                "Designation": "Director, Technology and Product"
+            },
+            {
+                "Name": "Mir Tariqul Alam",
+                "Designation": "Technical Lead, Systems"
+            },
+            {
+                "Name": "M. Niaz Morshed Shovon",
+                "Designation": "System Administrator, AGM, IT"
+            },
+            {
+                "Name": "Mohammed Shahjalal",
+                "Designation": "Senior UI & Web Developer"
+            },
+            {
+                "Name": "Mohammad Rafiqul Islam (Bipul)",
+                "Designation": "Lead Database Administrator"
+            },
+            {
+                "Name": "Shouravi Sharmin",
+                "Designation": "Senior Software Engineer"
+            },
+            {
+                "Name": "Rumana Khan",
+                "Designation": "Team Leader"
+            },
+            {
+                "Name": "Md. Ashraful Azhar",
+                "Designation": "Team Leader"
+            },
+            {
+                "Name": "Mst. Dilruba Khatun",
+                "Designation": "Senior Quality Assurance Engineer"
+            },
+            {
+                "Name": "Susmita Mridha",
+                "Designation": "Senior Quality Assurance Engineer"
+            },
+            {
+                "Name": "Mohammad Rafiqul Islam",
+                "Designation": "Assistant General Manager, Product"
+            },
+            {
+                "Name": "Md. Saidur Rahman",
+                "Designation": "Hardware Engineer"
+            },
+            {
+                "Name": "Salaha Sultana",
+                "Designation": "Software Engineer"
+            },
+            {
+                "Name": "Md. Naimur Rahman",
+                "Designation": "Product Analyst"
+            },
+            {
+                "Name": "Md. Mizanur Rahman",
+                "Designation": "Database Developer"
+            },
+            {
+                "Name": "Md. Tamim Talukder",
+                "Designation": "Jr. Software Engineer"
+            },
+            {
+                "Name": "MD. Sabbir Hasan",
+                "Designation": "Junior UI/UX Designer"
+            },
+            {
+                "Name": "Md. Mostofa Kamal",
+                "Designation": "Hardware Engineer"
+            },
+            {
+                "Name": "Md. Maksudur Rahman",
+                "Designation": "Mobile App Developer"
+            },
+            {
+                "Name": "Md. Sifatullah",
+                "Designation": "Sr. Software Engineer"
+            },
+            {
+                "Name": "Md. Rashedul Islam",
+                "Designation": "Cyber Security Auditor"
+            },
+            {
+                "Name": "Md. Hasibur Rahman Tomal",
+                "Designation": "Jr. Software Engineer"
+            },
+            {
+                "Name": "Sujon Mia",
+                "Designation": "Jr. Software Engineer"
+            },
+            {
+                "Name": "Md. Rokibul Islam",
+                "Designation": "Software Engineer"
+            },
+            {
+                "Name": "Tanzir Hossan Ratul",
+                "Designation": "Jr. Mobile App Developer"
+            },
+            {
+                "Name": "A S M Shahed Shourav",
+                "Designation": "Jr. Product Analyst"
+            },
+            {
+                "Name": "Irin Parveen",
+                "Designation": "Content Writer"
+            },
+            {
+                "Name": "Md. Shah Paran Munshi",
+                "Designation": "Jr. Software Engineer"
+            },
+            {
+                "Name": "Muhammad Sayyedul Awwab",
+                "Designation": "Jr. Software Engineer"
+            },
+            {
+                "Name": "Bidyut Mazumder",
+                "Designation": "Jr. Software Engineer"
+            },
+            {
+                "Name": "Md. Akram Uddin",
+                "Designation": "Jr. QA Engineer"
+            },
+            {
+                "Name": "Sajal Karmakar",
+                "Designation": "UI/UX Designer"
+            },
+            {
+                "Name": "Salma Sultana",
+                "Designation": "Jr. Mobile App Developer"
+            },
+            {
+                "Name": "Md. Tasnimul Hasan",
+                "Designation": "Jr. Mobile App Developer"
+            },
+            {
+                "Name": "Asir Intesar",
+                "Designation": "Product Analyst"
+            },
+            {
+                "Name": "Md. Iftekhar Uddin Chy",
+                "Designation": "Jr. Software Engineer"
+            },
+            {
+                "Name": "Md. Mehedi Hasan",
+                "Designation": "Jr. Mobile App Developer"
+            },
+            {
+                "Name": "Fariha Iffat Zahin",
+                "Designation": "Jr. Software Engineer"
+            }
+        ],
+        "Administration Department": [
+            {
+                "Name": "Md. Mazaharul Islam",
+                "Designation": "Head Of Administration"
+            },
+            {
+                "Name": "Haimanti Chakma",
+                "Designation": "Sr. Executive, Administration"
+            },
+            {
+                "Name": "Yasin Ann Nur Sakib",
+                "Designation": "Executive, Administration"
+            },
+            {
+                "Name": "Md. Rokunuzzaman",
+                "Designation": "Front Desk Executive"
+            },
+            {
+                "Name": "Mohammad Shahabuddin",
+                "Designation": "Executive, Electric & Equipment"
+            }
+        ],
+        "Content Team": [
+            {
+                "Name": "Mohammad Helal Uddin",
+                "Designation": "Assistant General Manager, Content Development"
+            },
+            {
+                "Name": "Md. Masum Parves",
+                "Designation": "Manager, Content Development"
+            },
+            {
+                "Name": "Ms. Nusrat Jarin",
+                "Designation": "Asst. Manager, Content Development"
+            },
+            {
+                "Name": "Md. Tasauf Islam Naem",
+                "Designation": "Sr. Executive, Content Development"
+            },
+            {
+                "Name": "Md Ali Hasan",
+                "Designation": "Executive, Content Development"
+            },
+            {
+                "Name": "Md. Monir hossain",
+                "Designation": "Executive, Content Development"
+            },
+            {
+                "Name": "Md. Mahedi Hasan Nayem",
+                "Designation": "Executive, Content Development"
+            },
+            {
+                "Name": "Riadul Islam",
+                "Designation": "Executive, Content Development"
+            },
+            {
+                "Name": "Anisul Mostafa",
+                "Designation": "Executive, Content Development"
+            }
+        ],
+        "Sales & Marketing Team": [
+            {
+                "Name": "Prokash Roy Chowdhury",
+                "Designation": "Director, Marketing & Sales"
+            },
+            {
+                "Name": "Muhammed Imrul Kayesh",
+                "Designation": "Assistant General Manager, Sales"
+            },
+            {
+                "Name": "Muhammad Anamul Hasan",
+                "Designation": "Assistant General Manager, Sales"
+            },
+            {
+                "Name": "Md. Shamim Hasan",
+                "Designation": "Assistant General Manager, Sales"
+            },
+            {
+                "Name": "Md. Shoeb Hassan Shobuz",
+                "Designation": "Assistant General Manager, Sales"
+            },
+            {
+                "Name": "A.J.M. Arifuzzaman",
+                "Designation": "Assistant General Manager, Sales"
+            },
+            {
+                "Name": "S.M Nazmul Rashid",
+                "Designation": "Assistant Manager, Corporate Sales."
+            },
+            {
+                "Name": "Abul Hasnat",
+                "Designation": "Assistant Manager, Corporate Sales"
+            },
+            {
+                "Name": "Md. Belal Uddin",
+                "Designation": "Assistant Manager, Corporate Sales (Ctg.)"
+            },
+            {
+                "Name": "Md. Musa Hossain",
+                "Designation": "Assistant Manager, Corporate Sales (Khulna)"
+            },
+            {
+                "Name": "H.M Saiful hassan",
+                "Designation": "Assistant Manager, Corporate Sales (Sylhet)"
+            },
+            {
+                "Name": "Proshanta Kumar Biswas",
+                "Designation": "Sr. Executive, Corporate Sales (Bogra)"
+            },
+            {
+                "Name": "Ataur Rahman",
+                "Designation": "Assistant Manager, Corporate Sales"
+            },
+            {
+                "Name": "Toufiqul Minhaj",
+                "Designation": "Assistant Manager, Corporate Sales (Narayanganj)"
+            },
+            {
+                "Name": "Iqbal Hussain",
+                "Designation": "Assistant Manager, Corporate Sales"
+            },
+            {
+                "Name": "Mahmudul Hasan",
+                "Designation": "Sr. Executive, Corporate Sales (Savar)"
+            },
+            {
+                "Name": "Fouad Hasan Nirjhor",
+                "Designation": "Assistant Manager, Corporate Sales"
+            },
+            {
+                "Name": "Mahadi Hasan",
+                "Designation": "Sr. Executive, Corporate Sales"
+            },
+            {
+                "Name": "Nripen Biswas",
+                "Designation": "Sr. Executive, Tele Sales"
+            },
+            {
+                "Name": "Jakia Sultana",
+                "Designation": "Sr. Executive, Tele Sales"
+            },
+            {
+                "Name": "Mohammad Ali Firose",
+                "Designation": "AGM, Programs & Activation"
+            },
+            {
+                "Name": "Aninda Bin Alam",
+                "Designation": "Sr. Executive, Programs & Activations"
+            },
+            {
+                "Name": "Md. Abir Hossain",
+                "Designation": "Sr. Executive, Corporate Sales"
+            },
+            {
+                "Name": "Sourav Saha",
+                "Designation": "Sr. Executive, Corporate Sales"
+            },
+            {
+                "Name": "Walyul Karim",
+                "Designation": "Executive, Corporate Sales (Rajshahi)"
+            },
+            {
+                "Name": "Md. Nazmul Haque",
+                "Designation": "Executive, Corporate Sales (Cumilla)"
+            },
+            {
+                "Name": "Tapan Mandal",
+                "Designation": "Sr. Graphics Designer"
+            },
+            {
+                "Name": "Md. Omar Faruk",
+                "Designation": "Sr. Executive, Corporate Sales"
+            },
+            {
+                "Name": "Md. Shahreyar Bhuiyan",
+                "Designation": "Sr. Executive, Corporate Sales"
+            },
+            {
+                "Name": "Md. Khorshed Alam",
+                "Designation": "Sr. Executive,Corporate Sales (Gazipur)"
+            },
+            {
+                "Name": "Md. Riad Hossain",
+                "Designation": "Sr. Executive, Brand Promoter"
+            },
+            {
+                "Name": "Md. Shihabul Islam Khan",
+                "Designation": "Brand Promoter"
+            },
+            {
+                "Name": "Md.Sharuf Ahmed",
+                "Designation": "Brand Promoter"
+            },
+            {
+                "Name": "Md. Amenul Islam Rayhan",
+                "Designation": "Brand Promoter"
+            },
+            {
+                "Name": "Md. Rabbi Hasan",
+                "Designation": "Brand Promoter"
+            },
+            {
+                "Name": "Md. Ashraful Haque",
+                "Designation": "Sales Executive"
+            },
+            {
+                "Name": "Tanvir",
+                "Designation": "Executive, Corporate Sales"
+            },
+            {
+                "Name": "Md. Sajedur Rahman",
+                "Designation": "Sales Executive"
+            },
+            {
+                "Name": "Md. Belayet Hossen",
+                "Designation": "Sales Executive"
+            },
+            {
+                "Name": "Md. Rashedul Haque",
+                "Designation": "Sales Executive"
+            },
+            {
+                "Name": "Pranto Rajbhor",
+                "Designation": "Sales Executive"
+            },
+            {
+                "Name": "Md. Ashikuzzaman Ashik",
+                "Designation": "Executive, Corporate Sales (Syedpur)"
+            },
+            {
+                "Name": "Imdadul Haque",
+                "Designation": "Executive, Corporate Sales"
+            },
+            {
+                "Name": "Md.Ranel Howlader",
+                "Designation": "Executive, Corporate Sales"
+            },
+            {
+                "Name": "Abu Bakar Siddik",
+                "Designation": "Asst. Manager, Digital Marketing"
+            },
+            {
+                "Name": "Md.Sajeb Ahsan",
+                "Designation": "Brand Promoter"
+            },
+            {
+                "Name": "Arifur Rahaman Arif",
+                "Designation": "Executive, Corporate Sales (Mymensingh)"
+            },
+            {
+                "Name": "Khasru Mohammad Mehrun",
+                "Designation": "Sales Executive"
+            },
+            {
+                "Name": "Md. Ashrakur Rahman",
+                "Designation": "Sales Executive"
+            },
+            {
+                "Name": "Mojahidur Rahman",
+                "Designation": "Sales Executive"
+            },
+            {
+                "Name": "Tonmoy Debnath",
+                "Designation": "Sales Executive"
+            },
+            {
+                "Name": "Piklu Shil",
+                "Designation": "Executive, Corporate Sales (Ctg.)"
+            },
+            {
+                "Name": "Rikash Das",
+                "Designation": "Executive, Corporate Sales (ctg)"
+            },
+            {
+                "Name": "Zahirul Islam Rakib Bhuiyan",
+                "Designation": "Sales Executive (Gazipur)"
+            },
+            {
+                "Name": "Md. Shazol Hossen",
+                "Designation": "Sales Executive"
+            },
+            {
+                "Name": "Asif Newaz Tohin",
+                "Designation": "Executive, Corporate Sales (ctg)"
+            },
+            {
+                "Name": "Md. Iqbal Hossain",
+                "Designation": "Executive, Corporate Sales"
+            },
+            {
+                "Name": "Md. Kamruzzaman Suruz",
+                "Designation": "Brand Promoter"
+            },
+            {
+                "Name": "Md. Farhad Ali",
+                "Designation": "Brand Promoter"
+            },
+            {
+                "Name": "Md. Mostafizur Rahman",
+                "Designation": "Brand Promoter"
+            },
+            {
+                "Name": "Md. Tajul Islam",
+                "Designation": "Executive, Corporate Sales(Barishal)"
+            },
+            {
+                "Name": "Md. Abu Nayeem Siddiky",
+                "Designation": "Executive, Programs & Activations"
+            },
+            {
+                "Name": "Md. Imroj Arman Anik",
+                "Designation": "Executive, Client Support"
+            },
+            {
+                "Name": "Nasir Uddin",
+                "Designation": "Executive, Corporate Sales(Cox's Bazarl)"
+            },
+            {
+                "Name": "Mehadi Hasan",
+                "Designation": "Sales Executive (Khulna)"
+            },
+            {
+                "Name": "Md. Abdur Rahman Bakaul",
+                "Designation": "Sales Executive (Keraniganj)"
+            },
+            {
+                "Name": "K. M. Jakir Hossain",
+                "Designation": "Sales Executive (Savar)"
+            },
+            {
+                "Name": "Md. Abu Hasan Tutul",
+                "Designation": "Manager, Blue Collar-Candidate Sourcing"
+            },
+            {
+                "Name": "Maliha Khundokar",
+                "Designation": "Executive, Client Support"
+            },
+            {
+                "Name": "Shamiun Bin Siraj",
+                "Designation": "Executive, Corporate Sales"
+            },
+            {
+                "Name": "Ashique Anwar",
+                "Designation": "Sales Executive (Ctg.)"
+            },
+            {
+                "Name": "Biplob Chandra Das",
+                "Designation": "Sales Executive (Cumilla)"
+            },
+            {
+                "Name": "Kazi Mohim Uddin",
+                "Designation": "Manager, Corporate Sales"
+            },
+            {
+                "Name": "Md. Fazlay Rabbany",
+                "Designation": "Sales Executive (Faridpur)"
+            },
+            {
+                "Name": "Rimon Das",
+                "Designation": "Executive, Corporate Sales (Ctg.)"
+            },
+            {
+                "Name": "Happy",
+                "Designation": "Sales Executive"
+            },
+            {
+                "Name": "Pinku Das",
+                "Designation": "Brand Promoter (Sylhet)"
+            },
+            {
+                "Name": "Md. Jaber Al Beruni",
+                "Designation": "Executive, Programs & Activations"
+            },
+            {
+                "Name": "Md. Amir Hamza",
+                "Designation": "Executive, Programs & Activations"
+            },
+            {
+                "Name": "Md. Muhaiminur Rahman",
+                "Designation": "Corporate Sales Executive"
+            },
+            {
+                "Name": "Faridur Reja",
+                "Designation": "Sales Executive"
+            },
+            {
+                "Name": "Mridul Kanti Roy",
+                "Designation": "Sales Executive(Sylhet)"
+            },
+            {
+                "Name": "Arifa Islam",
+                "Designation": "Sales Executive"
+            },
+            {
+                "Name": "Md. Farshid Khan",
+                "Designation": "Executive, Corporate Sales"
+            },
+            {
+                "Name": "Md. Rokonozzaman",
+                "Designation": "Executive, Corporate Sales"
+            }
+        ],
+        "Finance & Accounts Team": [
+            {
+                "Name": "Md. Mosaddik Bin Kamal",
+                "Designation": "General Manager, Finance & Accounts"
+            },
+            {
+                "Name": "Md. Shofiqul Islam",
+                "Designation": "Assistant General Manager, Finance & Accounts"
+            },
+            {
+                "Name": "Md. Aman Ullah",
+                "Designation": "Manager, Finance & Accounts"
+            },
+            {
+                "Name": "Md. Ekramul Hoque",
+                "Designation": "Manager, Finance & Accounts"
+            },
+            {
+                "Name": "Rubel Ahmed",
+                "Designation": "Assistant Manager, Accounts & Finance"
+            },
+            {
+                "Name": "Delowar Hossain",
+                "Designation": "Executive (Collection)"
+            },
+            {
+                "Name": "Sumona Akter",
+                "Designation": "Executive, Customer Support (Fin & Acc)"
+            },
+            {
+                "Name": "Sajjad Hossain Sojol",
+                "Designation": "Executive, Customer Support (Fin & Acc)"
+            },
+            {
+                "Name": "Md. Imran Hosen",
+                "Designation": "Executive, Customer Support (Fin & Acc)"
+            },
+            {
+                "Name": "Md. Sharif Ahammed",
+                "Designation": "Executive, Accounts & Finance"
+            },
+            {
+                "Name": "Md. Nazmul Huda",
+                "Designation": "Executive, Accounts & Finance"
+            },
+            {
+                "Name": "Fardin Mahabub",
+                "Designation": "Executive, Accounts & Finance"
+            },
+            {
+                "Name": "Gazi Fayed Ahmed",
+                "Designation": "Executive, Accounts & Finance"
+            },
+            {
+                "Name": "Md. Sumon Hossain",
+                "Designation": "Executive, Accounts & Finance"
+            }
+        ],
+        "Training Division": [
+            {
+                "Name": "Nasim Ahmed",
+                "Designation": "Manager, e-learning"
+            },
+            {
+                "Name": "Iffat Surya Poroma",
+                "Designation": "Sr. Executive, e-learning"
+            },
+            {
+                "Name": "Md. Shahriar Parvez",
+                "Designation": "Executive, e-learning"
+            },
+            {
+                "Name": "Md. Minhazul Abedin",
+                "Designation": "Executive, e-learning"
+            },
+            {
+                "Name": "Eshad Mahamud Abir",
+                "Designation": "Executive, e-learning"
+            },
+            {
+                "Name": "Gouri Sarker",
+                "Designation": "Executive, e-learning"
+            }
+        ],
+        "Customer Support": [
+            {
+                "Name": "Noor Mohammed",
+                "Designation": "Sr. Executive, Customer Support"
+            },
+            {
+                "Name": "Md. Jahidul",
+                "Designation": "Executive, Customer Support"
+            },
+            {
+                "Name": "Md. Nazim Uddin",
+                "Designation": "Executive, Customer Support"
+            },
+            {
+                "Name": "Md. Sazid Kabir",
+                "Designation": "Executive, Customer Support"
+            }
+        ]
+    }
+]
